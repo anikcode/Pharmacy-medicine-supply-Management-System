@@ -1,0 +1,12 @@
+.img-size{
+    height: 100px;
+    width:100px;
+}
+.card{
+    padding:25px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.body{
+    background: antiquewhite;
+}
